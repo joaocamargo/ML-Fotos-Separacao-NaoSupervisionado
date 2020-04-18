@@ -4,7 +4,7 @@ Teste com reconhecimento facial em fotos e separação das imagens pelos rostos
 
 
 ## Para mostrar os conceitos do aprendizado não supervisionado:
-- é utilizado neste script diferentes redes treinadas (imagenet,mtcnn,resnet50) usando modelos: (Kmeans, VGGFace2)
+- é utilizado neste script diferentes redes treinadas (imagenet,mtcnn,resnet50) Clusterings: (Kmeans, VGGFace2)
   - em toda a foto
   - apenas nos rostos encontrados em cada foto
   
